@@ -38,5 +38,5 @@ Given NYC bike user data, a Des Moines bike sharing service could succeed by tak
 <img width="1051" alt="Screen Shot 2022-08-14 at 1 42 39 AM" src="https://user-images.githubusercontent.com/99444856/184525661-0123f3f6-4e3d-423e-96bb-f5b68dbb3c70.png">
 NOTE: A large amount of users born in 1970 report as unknown, which could represent a flaw in the customer sign in for non-subscribed citi bike users. 
 
-
+[https://public.tableau.com/views/Deliverable3_16604564417870/Start-UpPitchDeliverable3?:language=en-US&:display_count=n&:origin=viz_share_link](LINK GOES HERE 'Link to Dashboard')
 
