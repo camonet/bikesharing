@@ -1,4 +1,5 @@
 # bikesharing
+Note: a png of tripdata was included instead of a csv because it was too large of a file to add to github
 ## Overview 
 The purpose of this analysis was to create a story in Tableau Public to pitch to Des Moines bikesharing stakeholders. Various factors such as trip duration, gender breakdown, and starting points were visualized. 
 
